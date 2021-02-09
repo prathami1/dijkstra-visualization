@@ -1,5 +1,5 @@
 # Dijkstra's A* Algorithm Visualized
-A primitive understanding of Dijkstra's A* Algorithm, in the form of a Path Finding Visualization. In an earlier repository, I visualized a path finding algorithm in the form of a pygame window, with a python script (which can be found [here](https://github.com/prathami1/py-visualization). In order to view the visualization in a web format, I created a React Web Application that showcases the algorithm, with fancier animations. 
+A primitive understanding of Dijkstra's A* Algorithm, in the form of a Path Finding Visualization. In an earlier repository, I visualized a path finding algorithm in the form of a pygame window, with a python script (which can be found [here](https://github.com/prathami1/py-visualization)). In order to view the visualization in a web format, I created a React Web Application that showcases the algorithm, with fancier animations. 
 
 ## How it works
 Attached below are pictures of the website, with instructions and a detailed outline of the web app's functionality to go with it. 
