@@ -1,0 +1,19 @@
+.grid {
+  margin: 100px 0 0;
+}
+
+.border.rounded.border-dark {
+  border-color: rgb(255, 255, 255, 0) !important;
+  background-color: rgb(211, 211, 211, 0.7) !important;
+  color: rgb(0, 0, 0, 0.55) !important;
+  text-transform: none;
+  border-radius: 5px;
+}
+
+.border.rounded.border-dark:hover {
+  border-color: rgb(0, 0, 0, 0) !important;
+  background-color: rgb(0, 0, 0, 0.45) !important;
+  color: rgb(255, 255, 255, 0.63) !important;
+  text-transform: none;
+  border-radius: 5px;
+}
