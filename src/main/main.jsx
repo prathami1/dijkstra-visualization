@@ -83,7 +83,7 @@ export default class PathfindingVisualizer extends Component {
         <Header 
           title = "Dijkstra's A* Algorithm Visualized"
           pretag = "A primitive understanding of Dijkstra's A* Algorithm, in the form of a Path Finding Visualization."
-          hrefport = 'https://prathami1.studio'
+          hrefport = 'https://prathami1.tech'
           prebutton = 'Built By'
           name = "Pratham Inamdar"
         />
